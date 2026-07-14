@@ -1,0 +1,4 @@
+# Deploy branch (gh-pages) ignore rules
+# Only the built site files at the repository root are published.
+dist/
+node_modules/
