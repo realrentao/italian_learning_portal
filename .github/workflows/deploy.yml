@@ -1,0 +1,60 @@
+name: Deploy to GitHub Pages
+
+# 构建并部署到 GitHub Pages。
+# 触发：推送到 main 分支，或手动触发（workflow_dispatch）。
+# 前置：仓库 Settings → Pages → Build and deployment → Source 选择 “GitHub Actions”。
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# 最小权限原则：仅授予 Pages 部署所需权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只运行一个部署，新推送取消进行中的旧部署
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        # tsc -b 类型检查 + vite 生产构建，产物输出到 dist/
+        # 构建会自动生成 404.html（SPA fallback）与 .nojekyll
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

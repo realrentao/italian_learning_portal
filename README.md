@@ -76,8 +76,30 @@ python scripts/gen_verbs.py
 
 ## 部署到 GitHub Pages
 
-`vite.config.ts` 已设置 `base: '/italian_learning_portal/'`，构建产物可直接托管在
-`https://<user>.github.io/italian_learning_portal/` 下。
+本项目通过 **GitHub Actions 自动构建并部署**（`vite.config.ts` 中 `base` 已设为
+`/italian_learning_portal/`，构建产物托管在 `https://<user>.github.io/italian_learning_portal/`）。
+
+> ⚠️ 不要把仓库根目录（含源代码 `index.html` 指向 `/src/main.tsx`）当作站点源，否则浏览器无法执行
+> TypeScript 源码，页面会白屏。必须由 CI 构建出 `dist/` 后部署 `dist/`。
+
+### 一次性配置
+
+1. 仓库 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。
+2. 推送代码到 `main` 分支（或到 Actions 页手动 **Run workflow**）。
+
+### 工作流做了什么
+
+- `npm ci` 安装依赖 → `npm run build` 执行 `tsc -b` 类型检查 + Vite 生产构建，输出到 `dist/`。
+- 构建脚本会自动：
+  - 将 `index.html` 复制为 `dist/404.html`，作为 **SPA fallback**（刷新/直链子路由不再 404 白屏）；
+  - 通过 `public/.nojekyll` 在产物中保留 `.nojekyll`，**禁用 Jekyll**，避免以下划线 `_` 开头的资源被忽略。
+- 最后通过官方 `actions/deploy-pages` 将 `dist/` 部署到 GitHub Pages。
+
+### 注意
+
+- 若仓库属于「用户/组织页」（`https://<user>.github.io/`，仓库名即 `<user>.github.io`），
+  需把 `vite.config.ts` 的 `base` 改为 `'/'`。
+- 修改 `base` 后需同步更新 `src/main.tsx` 中 `<BrowserRouter basename="...">` 的值。
 
 ## 说明
 
