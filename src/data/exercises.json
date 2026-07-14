@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ex-1",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的颜色。",
+    "audioFile": "ex-1",
+    "options": [
+      { "id": "a", "text": "rosso" },
+      { "id": "b", "text": "verde" },
+      { "id": "c", "text": "blu" },
+      { "id": "d", "text": "giallo" }
+    ],
+    "answer": 1,
+    "explanation": "音频中发音为 verde（绿色）。"
+  },
+  {
+    "id": "ex-2",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的数字。",
+    "audioFile": "ex-2",
+    "options": [
+      { "id": "a", "text": "tre" },
+      { "id": "b", "text": "cinque" },
+      { "id": "c", "text": "sette" },
+      { "id": "d", "text": "dieci" }
+    ],
+    "answer": 2,
+    "explanation": "音频中发音为 sette（七）。"
+  },
+  {
+    "id": "ex-3",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的事物。",
+    "audioFile": "ex-3",
+    "options": [
+      { "id": "a", "text": "libro" },
+      { "id": "b", "text": "treno" },
+      { "id": "c", "text": "pizza" },
+      { "id": "d", "text": "casa" }
+    ],
+    "answer": 0,
+    "explanation": "音频中发音为 libro（书）。"
+  },
+  {
+    "id": "ex-4",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的动词。",
+    "audioFile": "ex-4",
+    "options": [
+      { "id": "a", "text": "mangiare" },
+      { "id": "b", "text": "dormire" },
+      { "id": "c", "text": "partire" },
+      { "id": "d", "text": "scrivere" }
+    ],
+    "answer": 3,
+    "explanation": "音频中发音为 scrivere（写）。"
+  },
+  {
+    "id": "ex-5",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的食物。",
+    "audioFile": "ex-5",
+    "options": [
+      { "id": "a", "text": "pane" },
+      { "id": "b", "text": "pesce" },
+      { "id": "c", "text": "latte" },
+      { "id": "d", "text": "vino" }
+    ],
+    "answer": 1,
+    "explanation": "音频中发音为 pesce（鱼）。"
+  },
+  {
+    "id": "ex-6",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的常用语。",
+    "audioFile": "ex-6",
+    "options": [
+      { "id": "a", "text": "ciao" },
+      { "id": "b", "text": "grazie" },
+      { "id": "c", "text": "scusa" },
+      { "id": "d", "text": "prego" }
+    ],
+    "answer": 1,
+    "explanation": "音频中发音为 grazie（谢谢）。"
+  },
+  {
+    "id": "ex-7",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的城市名。",
+    "audioFile": "ex-7",
+    "options": [
+      { "id": "a", "text": "Roma" },
+      { "id": "b", "text": "Milano" },
+      { "id": "c", "text": "Venezia" },
+      { "id": "d", "text": "Napoli" }
+    ],
+    "answer": 0,
+    "explanation": "音频中发音为 Roma（罗马）。"
+  },
+  {
+    "id": "ex-8",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的形容词。",
+    "audioFile": "ex-8",
+    "options": [
+      { "id": "a", "text": "rosso" },
+      { "id": "b", "text": "grande" },
+      { "id": "c", "text": "piccolo" },
+      { "id": "d", "text": "bello" }
+    ],
+    "answer": 1,
+    "explanation": "音频中发音为 grande（大的）。"
+  },
+  {
+    "id": "ex-9",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的动词 io 形式。",
+    "audioFile": "ex-9",
+    "options": [
+      { "id": "a", "text": "parlo" },
+      { "id": "b", "text": "leggo" },
+      { "id": "c", "text": "vado" },
+      { "id": "d", "text": "ho" }
+    ],
+    "answer": 0,
+    "explanation": "音频中发音为 parlo（我说）。"
+  },
+  {
+    "id": "ex-10",
+    "type": "listening-choice",
+    "prompt": "听音频，选择你听到的饮品。",
+    "audioFile": "ex-10",
+    "options": [
+      { "id": "a", "text": "acqua" },
+      { "id": "b", "text": "caffè" },
+      { "id": "c", "text": "tè" },
+      { "id": "d", "text": "succo" }
+    ],
+    "answer": 1,
+    "explanation": "音频中发音为 caffè（咖啡）。"
+  }
+]

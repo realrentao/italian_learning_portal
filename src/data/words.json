@@ -1,0 +1,456 @@
+[
+  {
+    "id": "rosso",
+    "italian": "rosso",
+    "chinese": "红色（的）",
+    "category": "color",
+    "audioFile": "rosso",
+    "example": "La mela è rossa.",
+    "exampleZh": "苹果是红色的。"
+  },
+  {
+    "id": "blu",
+    "italian": "blu",
+    "chinese": "蓝色（的）",
+    "category": "color",
+    "audioFile": "blu",
+    "example": "Il cielo è blu.",
+    "exampleZh": "天空是蓝色的。"
+  },
+  {
+    "id": "verde",
+    "italian": "verde",
+    "chinese": "绿色（的）",
+    "category": "color",
+    "audioFile": "verde",
+    "example": "L'erba è verde.",
+    "exampleZh": "草是绿色的。"
+  },
+  {
+    "id": "giallo",
+    "italian": "giallo",
+    "chinese": "黄色（的）",
+    "category": "color",
+    "audioFile": "giallo",
+    "example": "Il sole è giallo.",
+    "exampleZh": "太阳是黄色的。"
+  },
+  {
+    "id": "nero",
+    "italian": "nero",
+    "chinese": "黑色（的）",
+    "category": "color",
+    "audioFile": "nero"
+  },
+  {
+    "id": "bianco",
+    "italian": "bianco",
+    "chinese": "白色（的）",
+    "category": "color",
+    "audioFile": "bianco"
+  },
+  {
+    "id": "grigio",
+    "italian": "grigio",
+    "chinese": "灰色（的）",
+    "category": "color",
+    "audioFile": "grigio"
+  },
+  {
+    "id": "marrone",
+    "italian": "marrone",
+    "chinese": "棕色（的）",
+    "category": "color",
+    "audioFile": "marrone"
+  },
+  {
+    "id": "rosa",
+    "italian": "rosa",
+    "chinese": "粉色（的）",
+    "category": "color",
+    "audioFile": "rosa"
+  },
+  {
+    "id": "arancione",
+    "italian": "arancione",
+    "chinese": "橙色（的）",
+    "category": "color",
+    "audioFile": "arancione"
+  },
+  {
+    "id": "viola",
+    "italian": "viola",
+    "chinese": "紫色（的）",
+    "category": "color",
+    "audioFile": "viola"
+  },
+  {
+    "id": "colorato",
+    "italian": "colorato",
+    "chinese": "彩色的",
+    "category": "color",
+    "audioFile": "colorato"
+  },
+  {
+    "id": "casa",
+    "italian": "casa",
+    "chinese": "家；房子",
+    "category": "daily",
+    "audioFile": "casa",
+    "example": "La mia casa è grande.",
+    "exampleZh": "我的房子很大。"
+  },
+  {
+    "id": "libro",
+    "italian": "libro",
+    "chinese": "书",
+    "category": "daily",
+    "audioFile": "libro",
+    "example": "Leggo un libro.",
+    "exampleZh": "我在读一本书。"
+  },
+  {
+    "id": "acqua",
+    "italian": "acqua",
+    "chinese": "水",
+    "category": "daily",
+    "audioFile": "acqua"
+  },
+  {
+    "id": "giorno",
+    "italian": "giorno",
+    "chinese": "天；白天",
+    "category": "daily",
+    "audioFile": "giorno",
+    "example": "Buongiorno!",
+    "exampleZh": "早上好！"
+  },
+  {
+    "id": "notte",
+    "italian": "notte",
+    "chinese": "夜晚",
+    "category": "daily",
+    "audioFile": "notte",
+    "example": "Buonanotte!",
+    "exampleZh": "晚安！"
+  },
+  {
+    "id": "persona",
+    "italian": "persona",
+    "chinese": "人",
+    "category": "daily",
+    "audioFile": "persona"
+  },
+  {
+    "id": "amico",
+    "italian": "amico",
+    "chinese": "朋友（男）",
+    "category": "daily",
+    "audioFile": "amico",
+    "example": "Lui è il mio amico.",
+    "exampleZh": "他是我的朋友。"
+  },
+  {
+    "id": "tempo",
+    "italian": "tempo",
+    "chinese": "时间；天气",
+    "category": "daily",
+    "audioFile": "tempo"
+  },
+  {
+    "id": "lavoro",
+    "italian": "lavoro",
+    "chinese": "工作",
+    "category": "daily",
+    "audioFile": "lavoro",
+    "example": "Vado a lavoro.",
+    "exampleZh": "我去上班。"
+  },
+  {
+    "id": "scuola",
+    "italian": "scuola",
+    "chinese": "学校",
+    "category": "daily",
+    "audioFile": "scuola"
+  },
+  {
+    "id": "nome",
+    "italian": "nome",
+    "chinese": "名字",
+    "category": "daily",
+    "audioFile": "nome",
+    "example": "Come ti chiami? Il mio nome è Marco.",
+    "exampleZh": "你叫什么名字？我叫 Marco。"
+  },
+  {
+    "id": "treno",
+    "italian": "treno",
+    "chinese": "火车",
+    "category": "travel",
+    "audioFile": "treno",
+    "example": "Il treno è in ritardo.",
+    "exampleZh": "火车晚点了。"
+  },
+  {
+    "id": "aereo",
+    "italian": "aereo",
+    "chinese": "飞机",
+    "category": "travel",
+    "audioFile": "aereo"
+  },
+  {
+    "id": "stazione",
+    "italian": "stazione",
+    "chinese": "车站",
+    "category": "travel",
+    "audioFile": "stazione"
+  },
+  {
+    "id": "albergo",
+    "italian": "albergo",
+    "chinese": "酒店；旅馆",
+    "category": "travel",
+    "audioFile": "albergo"
+  },
+  {
+    "id": "biglietto",
+    "italian": "biglietto",
+    "chinese": "票",
+    "category": "travel",
+    "audioFile": "biglietto",
+    "example": "Ho comprato il biglietto.",
+    "exampleZh": "我买了票。"
+  },
+  {
+    "id": "valigia",
+    "italian": "valigia",
+    "chinese": "行李箱",
+    "category": "travel",
+    "audioFile": "valigia"
+  },
+  {
+    "id": "mare",
+    "italian": "mare",
+    "chinese": "海",
+    "category": "travel",
+    "audioFile": "mare",
+    "example": "Andiamo al mare.",
+    "exampleZh": "我们去海边。"
+  },
+  {
+    "id": "montagna",
+    "italian": "montagna",
+    "chinese": "山",
+    "category": "travel",
+    "audioFile": "montagna"
+  },
+  {
+    "id": "citta",
+    "italian": "città",
+    "chinese": "城市",
+    "category": "travel",
+    "audioFile": "citta"
+  },
+  {
+    "id": "viaggio",
+    "italian": "viaggio",
+    "chinese": "旅行",
+    "category": "travel",
+    "audioFile": "viaggio",
+    "example": "Buon viaggio!",
+    "exampleZh": "旅途愉快！"
+  },
+  {
+    "id": "aeroporto",
+    "italian": "aeroporto",
+    "chinese": "机场",
+    "category": "travel",
+    "audioFile": "aeroporto"
+  },
+  {
+    "id": "macchina",
+    "italian": "macchina",
+    "chinese": "汽车；机器",
+    "category": "travel",
+    "audioFile": "macchina"
+  },
+  {
+    "id": "pane",
+    "italian": "pane",
+    "chinese": "面包",
+    "category": "food",
+    "audioFile": "pane"
+  },
+  {
+    "id": "pizza",
+    "italian": "pizza",
+    "chinese": "披萨",
+    "category": "food",
+    "audioFile": "pizza",
+    "example": "La pizza italiana è buona.",
+    "exampleZh": "意大利披萨很好吃。"
+  },
+  {
+    "id": "pasta",
+    "italian": "pasta",
+    "chinese": "意面；面食",
+    "category": "food",
+    "audioFile": "pasta"
+  },
+  {
+    "id": "formaggio",
+    "italian": "formaggio",
+    "chinese": "奶酪",
+    "category": "food",
+    "audioFile": "formaggio"
+  },
+  {
+    "id": "vino",
+    "italian": "vino",
+    "chinese": "葡萄酒",
+    "category": "food",
+    "audioFile": "vino"
+  },
+  {
+    "id": "caffe",
+    "italian": "caffè",
+    "chinese": "咖啡",
+    "category": "food",
+    "audioFile": "caffe",
+    "example": "Un caffè, per favore.",
+    "exampleZh": "请来一杯咖啡。"
+  },
+  {
+    "id": "latte",
+    "italian": "latte",
+    "chinese": "牛奶",
+    "category": "food",
+    "audioFile": "latte"
+  },
+  {
+    "id": "frutta",
+    "italian": "frutta",
+    "chinese": "水果",
+    "category": "food",
+    "audioFile": "frutta"
+  },
+  {
+    "id": "carne",
+    "italian": "carne",
+    "chinese": "肉",
+    "category": "food",
+    "audioFile": "carne"
+  },
+  {
+    "id": "pesce",
+    "italian": "pesce",
+    "chinese": "鱼",
+    "category": "food",
+    "audioFile": "pesce"
+  },
+  {
+    "id": "insalata",
+    "italian": "insalata",
+    "chinese": "沙拉",
+    "category": "food",
+    "audioFile": "insalata"
+  },
+  {
+    "id": "zucchero",
+    "italian": "zucchero",
+    "chinese": "糖",
+    "category": "food",
+    "audioFile": "zucchero"
+  },
+  {
+    "id": "uno",
+    "italian": "uno",
+    "chinese": "一",
+    "category": "number",
+    "audioFile": "uno"
+  },
+  {
+    "id": "due",
+    "italian": "due",
+    "chinese": "二",
+    "category": "number",
+    "audioFile": "due"
+  },
+  {
+    "id": "tre",
+    "italian": "tre",
+    "chinese": "三",
+    "category": "number",
+    "audioFile": "tre"
+  },
+  {
+    "id": "quattro",
+    "italian": "quattro",
+    "chinese": "四",
+    "category": "number",
+    "audioFile": "quattro"
+  },
+  {
+    "id": "cinque",
+    "italian": "cinque",
+    "chinese": "五",
+    "category": "number",
+    "audioFile": "cinque"
+  },
+  {
+    "id": "sei",
+    "italian": "sei",
+    "chinese": "六",
+    "category": "number",
+    "audioFile": "sei"
+  },
+  {
+    "id": "sette",
+    "italian": "sette",
+    "chinese": "七",
+    "category": "number",
+    "audioFile": "sette"
+  },
+  {
+    "id": "otto",
+    "italian": "otto",
+    "chinese": "八",
+    "category": "number",
+    "audioFile": "otto"
+  },
+  {
+    "id": "nove",
+    "italian": "nove",
+    "chinese": "九",
+    "category": "number",
+    "audioFile": "nove"
+  },
+  {
+    "id": "dieci",
+    "italian": "dieci",
+    "chinese": "十",
+    "category": "number",
+    "audioFile": "dieci"
+  },
+  {
+    "id": "cento",
+    "italian": "cento",
+    "chinese": "一百",
+    "category": "number",
+    "audioFile": "cento"
+  },
+  {
+    "id": "mille",
+    "italian": "mille",
+    "chinese": "一千",
+    "category": "number",
+    "audioFile": "mille"
+  },
+  {
+    "id": "venti",
+    "italian": "venti",
+    "chinese": "二十",
+    "category": "number",
+    "audioFile": "venti"
+  }
+]

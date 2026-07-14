@@ -1,0 +1,4352 @@
+[
+  {
+    "id": "parlare",
+    "infinitive": "parlare",
+    "chinese": "说话",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "parlare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere parlato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "parlo",
+          "parli",
+          "parla",
+          "parliamo",
+          "parlate",
+          "parlano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho parlato",
+          "hai parlato",
+          "ha parlato",
+          "abbiamo parlato",
+          "avete parlato",
+          "hanno parlato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "parlavo",
+          "parlavi",
+          "parlava",
+          "parlavamo",
+          "parlavate",
+          "parlavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "parlerò",
+          "parlerai",
+          "parlerà",
+          "parleremo",
+          "parlerete",
+          "parleranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "parli",
+          "parli",
+          "parli",
+          "parliamo",
+          "parliate",
+          "parlino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "parlassi",
+          "parlassi",
+          "parlasse",
+          "parlassimo",
+          "parlaste",
+          "parlassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "parlerei",
+          "parleresti",
+          "parlerebbe",
+          "parleremmo",
+          "parlereste",
+          "parlerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "parla",
+          "parli",
+          "parliamo",
+          "parlate",
+          "parlino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "parlante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "parlato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "parlando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo parlato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mangiare",
+    "infinitive": "mangiare",
+    "chinese": "吃",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "mangiare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere mangiato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "mangio",
+          "mangi",
+          "mangia",
+          "mangiamo",
+          "mangiate",
+          "mangiano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho mangiato",
+          "hai mangiato",
+          "ha mangiato",
+          "abbiamo mangiato",
+          "avete mangiato",
+          "hanno mangiato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "mangiavo",
+          "mangiavi",
+          "mangiava",
+          "mangiavamo",
+          "mangiavate",
+          "mangiavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "mangerò",
+          "mangerai",
+          "mangerà",
+          "mangeremo",
+          "mangerete",
+          "mangeranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "mangii",
+          "mangii",
+          "mangii",
+          "mangiiamo",
+          "mangiiate",
+          "mangiino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "mangiassi",
+          "mangiassi",
+          "mangiasse",
+          "mangiassimo",
+          "mangiaste",
+          "mangiassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "mangerei",
+          "mangeresti",
+          "mangerebbe",
+          "mangeremmo",
+          "mangereste",
+          "mangerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "mangia",
+          "mangii",
+          "mangiamo",
+          "mangiate",
+          "mangiino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "mangiante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "mangiato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "mangiando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo mangiato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "studiare",
+    "infinitive": "studiare",
+    "chinese": "学习",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "studiare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere studiato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "studio",
+          "studi",
+          "studia",
+          "studiamo",
+          "studiate",
+          "studiano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho studiato",
+          "hai studiato",
+          "ha studiato",
+          "abbiamo studiato",
+          "avete studiato",
+          "hanno studiato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "studiavo",
+          "studiavi",
+          "studiava",
+          "studiavamo",
+          "studiavate",
+          "studiavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "studerò",
+          "studerai",
+          "studerà",
+          "studeremo",
+          "studerete",
+          "studeranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "studii",
+          "studii",
+          "studii",
+          "studiiamo",
+          "studiiate",
+          "studiino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "studiassi",
+          "studiassi",
+          "studiasse",
+          "studiassimo",
+          "studiaste",
+          "studiassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "studerei",
+          "studeresti",
+          "studerebbe",
+          "studeremmo",
+          "studereste",
+          "studerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "studia",
+          "studii",
+          "studiamo",
+          "studiate",
+          "studiino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "studiante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "studiato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "studiando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo studiato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cercare",
+    "infinitive": "cercare",
+    "chinese": "寻找",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "cercare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere cercato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "cerco",
+          "cerchi",
+          "cerca",
+          "cerchiamo",
+          "cercate",
+          "cercano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho cercato",
+          "hai cercato",
+          "ha cercato",
+          "abbiamo cercato",
+          "avete cercato",
+          "hanno cercato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "cercavo",
+          "cercavi",
+          "cercava",
+          "cercavamo",
+          "cercavate",
+          "cercavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "cercerò",
+          "cercerai",
+          "cercerà",
+          "cerceremo",
+          "cercerete",
+          "cerceranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "cerci",
+          "cerci",
+          "cerci",
+          "cerciamo",
+          "cerciate",
+          "cercino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "cercassi",
+          "cercassi",
+          "cercasse",
+          "cercassimo",
+          "cercaste",
+          "cercassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "cercerei",
+          "cerceresti",
+          "cercerebbe",
+          "cerceremmo",
+          "cercereste",
+          "cercerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "cerca",
+          "cerci",
+          "cerchiamo",
+          "cercate",
+          "cercino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "cercante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "cercato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "cercando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo cercato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pagare",
+    "infinitive": "pagare",
+    "chinese": "支付",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "pagare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere pagato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "pago",
+          "paghi",
+          "paga",
+          "paghiamo",
+          "pagate",
+          "pagano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho pagato",
+          "hai pagato",
+          "ha pagato",
+          "abbiamo pagato",
+          "avete pagato",
+          "hanno pagato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "pagavo",
+          "pagavi",
+          "pagava",
+          "pagavamo",
+          "pagavate",
+          "pagavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "pagerò",
+          "pagerai",
+          "pagerà",
+          "pageremo",
+          "pagerete",
+          "pageranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "pagi",
+          "pagi",
+          "pagi",
+          "pagiamo",
+          "pagiate",
+          "pagino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "pagassi",
+          "pagassi",
+          "pagasse",
+          "pagassimo",
+          "pagaste",
+          "pagassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "pagerei",
+          "pageresti",
+          "pagerebbe",
+          "pageremmo",
+          "pagereste",
+          "pagerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "paga",
+          "pagi",
+          "paghiamo",
+          "pagate",
+          "pagino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "pagante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "pagato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "pagando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo pagato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guardare",
+    "infinitive": "guardare",
+    "chinese": "看",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "guardare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere guardato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "guardo",
+          "guardi",
+          "guarda",
+          "guardiamo",
+          "guardate",
+          "guardano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho guardato",
+          "hai guardato",
+          "ha guardato",
+          "abbiamo guardato",
+          "avete guardato",
+          "hanno guardato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "guardavo",
+          "guardavi",
+          "guardava",
+          "guardavamo",
+          "guardavate",
+          "guardavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "guarderò",
+          "guarderai",
+          "guarderà",
+          "guarderemo",
+          "guarderete",
+          "guarderanno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "guardi",
+          "guardi",
+          "guardi",
+          "guardiamo",
+          "guardiate",
+          "guardino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "guardassi",
+          "guardassi",
+          "guardasse",
+          "guardassimo",
+          "guardaste",
+          "guardassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "guarderei",
+          "guarderesti",
+          "guarderebbe",
+          "guarderemmo",
+          "guardereste",
+          "guarderebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "guarda",
+          "guardi",
+          "guardiamo",
+          "guardate",
+          "guardino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "guardante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "guardato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "guardando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo guardato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comprare",
+    "infinitive": "comprare",
+    "chinese": "买",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "comprare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere comprato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "compro",
+          "compri",
+          "compra",
+          "compriamo",
+          "comprate",
+          "comprano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho comprato",
+          "hai comprato",
+          "ha comprato",
+          "abbiamo comprato",
+          "avete comprato",
+          "hanno comprato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "compravo",
+          "compravi",
+          "comprava",
+          "compravamo",
+          "compravate",
+          "compravano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "comprerò",
+          "comprerai",
+          "comprerà",
+          "compreremo",
+          "comprerete",
+          "compreranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "compri",
+          "compri",
+          "compri",
+          "compriamo",
+          "compriate",
+          "comprino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "comprassi",
+          "comprassi",
+          "comprasse",
+          "comprassimo",
+          "compraste",
+          "comprassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "comprerei",
+          "compreresti",
+          "comprerebbe",
+          "compreremmo",
+          "comprereste",
+          "comprerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "compra",
+          "compri",
+          "compriamo",
+          "comprate",
+          "comprino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "comprante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "comprato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "comprando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo comprato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cantare",
+    "infinitive": "cantare",
+    "chinese": "唱",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "cantare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere cantato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "canto",
+          "canti",
+          "canta",
+          "cantiamo",
+          "cantate",
+          "cantano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho cantato",
+          "hai cantato",
+          "ha cantato",
+          "abbiamo cantato",
+          "avete cantato",
+          "hanno cantato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "cantavo",
+          "cantavi",
+          "cantava",
+          "cantavamo",
+          "cantavate",
+          "cantavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "canterò",
+          "canterai",
+          "canterà",
+          "canteremo",
+          "canterete",
+          "canteranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "canti",
+          "canti",
+          "canti",
+          "cantiamo",
+          "cantiate",
+          "cantino"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "cantassi",
+          "cantassi",
+          "cantasse",
+          "cantassimo",
+          "cantaste",
+          "cantassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "canterei",
+          "canteresti",
+          "canterebbe",
+          "canteremmo",
+          "cantereste",
+          "canterebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "canta",
+          "canti",
+          "cantiamo",
+          "cantate",
+          "cantino"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "cantante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "cantato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "cantando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo cantato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vedere",
+    "infinitive": "vedere",
+    "chinese": "看见",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "vedere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere visto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "vedo",
+          "vedi",
+          "vede",
+          "vediamo",
+          "vedete",
+          "vedono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho visto",
+          "hai visto",
+          "ha visto",
+          "abbiamo visto",
+          "avete visto",
+          "hanno visto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "vedevo",
+          "vedevi",
+          "vedeva",
+          "vedevamo",
+          "vedevate",
+          "vedevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "vederò",
+          "vederai",
+          "vederà",
+          "vederemo",
+          "vederete",
+          "vederanno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "veda",
+          "veda",
+          "veda",
+          "vediamo",
+          "vediate",
+          "vedano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "vedessi",
+          "vedessi",
+          "vedesse",
+          "vedessimo",
+          "vedeste",
+          "vedessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "vederei",
+          "vederesti",
+          "vederebbe",
+          "vederemmo",
+          "vedereste",
+          "vederebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "vedi",
+          "veda",
+          "vediamo",
+          "vedete",
+          "vedano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "vedente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "visto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "vedendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo visto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leggere",
+    "infinitive": "leggere",
+    "chinese": "读",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "leggere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere letto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "leggo",
+          "leggi",
+          "legge",
+          "leggiamo",
+          "leggete",
+          "leggono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho letto",
+          "hai letto",
+          "ha letto",
+          "abbiamo letto",
+          "avete letto",
+          "hanno letto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "leggevo",
+          "leggevi",
+          "leggeva",
+          "leggevamo",
+          "leggevate",
+          "leggevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "leggerò",
+          "leggerai",
+          "leggerà",
+          "leggeremo",
+          "leggerete",
+          "leggeranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "legga",
+          "legga",
+          "legga",
+          "leggiamo",
+          "leggiate",
+          "leggano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "leggessi",
+          "leggessi",
+          "leggesse",
+          "leggessimo",
+          "leggeste",
+          "leggessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "leggerei",
+          "leggeresti",
+          "leggerebbe",
+          "leggeremmo",
+          "leggereste",
+          "leggerebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "leggi",
+          "legga",
+          "leggiamo",
+          "leggete",
+          "leggano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "leggente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "letto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "leggendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo letto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scrivere",
+    "infinitive": "scrivere",
+    "chinese": "写",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "scrivere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere scritto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "scrivo",
+          "scrivi",
+          "scrive",
+          "scriviamo",
+          "scrivete",
+          "scrivono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho scritto",
+          "hai scritto",
+          "ha scritto",
+          "abbiamo scritto",
+          "avete scritto",
+          "hanno scritto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "scrivevo",
+          "scrivevi",
+          "scriveva",
+          "scrivevamo",
+          "scrivevate",
+          "scrivevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "scriverò",
+          "scriverai",
+          "scriverà",
+          "scriveremo",
+          "scriverete",
+          "scriveranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "scriva",
+          "scriva",
+          "scriva",
+          "scriviamo",
+          "scriviate",
+          "scrivano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "scrivessi",
+          "scrivessi",
+          "scrivesse",
+          "scrivessimo",
+          "scriveste",
+          "scrivessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "scriverei",
+          "scriveresti",
+          "scriverebbe",
+          "scriveremmo",
+          "scrivereste",
+          "scriverebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "scrivi",
+          "scriva",
+          "scriviamo",
+          "scrivete",
+          "scrivano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "scrivente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "scritto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "scrivendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo scritto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prendere",
+    "infinitive": "prendere",
+    "chinese": "拿/取",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "prendere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere preso"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "prendo",
+          "prendi",
+          "prende",
+          "prendiamo",
+          "prendete",
+          "prendono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho preso",
+          "hai preso",
+          "ha preso",
+          "abbiamo preso",
+          "avete preso",
+          "hanno preso"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "prendevo",
+          "prendevi",
+          "prendeva",
+          "prendevamo",
+          "prendevate",
+          "prendevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "prenderò",
+          "prenderai",
+          "prenderà",
+          "prenderemo",
+          "prenderete",
+          "prenderanno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "prenda",
+          "prenda",
+          "prenda",
+          "prendiamo",
+          "prendiate",
+          "prendano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "prendessi",
+          "prendessi",
+          "prendesse",
+          "prendessimo",
+          "prendeste",
+          "prendessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "prenderei",
+          "prenderesti",
+          "prenderebbe",
+          "prenderemmo",
+          "prendereste",
+          "prenderebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "prendi",
+          "prenda",
+          "prendiamo",
+          "prendete",
+          "prendano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "prendente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "preso"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "prendendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo preso"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mettere",
+    "infinitive": "mettere",
+    "chinese": "放",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "mettere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere messo"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "metto",
+          "metti",
+          "mette",
+          "mettiamo",
+          "mettete",
+          "mettono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho messo",
+          "hai messo",
+          "ha messo",
+          "abbiamo messo",
+          "avete messo",
+          "hanno messo"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "mettevo",
+          "mettevi",
+          "metteva",
+          "mettevamo",
+          "mettevate",
+          "mettevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "metterò",
+          "metterai",
+          "metterà",
+          "metteremo",
+          "metterete",
+          "metteranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "metta",
+          "metta",
+          "metta",
+          "mettiamo",
+          "mettiate",
+          "mettano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "mettessi",
+          "mettessi",
+          "mettesse",
+          "mettessimo",
+          "metteste",
+          "mettessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "metterei",
+          "metteresti",
+          "metterebbe",
+          "metteremmo",
+          "mettereste",
+          "metterebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "metti",
+          "metta",
+          "mettiamo",
+          "mettete",
+          "mettano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "mettente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "messo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "mettendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo messo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "perdere",
+    "infinitive": "perdere",
+    "chinese": "丢失",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "perdere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere perso"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "perdo",
+          "perdi",
+          "perde",
+          "perdiamo",
+          "perdete",
+          "perdono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho perso",
+          "hai perso",
+          "ha perso",
+          "abbiamo perso",
+          "avete perso",
+          "hanno perso"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "perdevo",
+          "perdevi",
+          "perdeva",
+          "perdevamo",
+          "perdevate",
+          "perdevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "perderò",
+          "perderai",
+          "perderà",
+          "perderemo",
+          "perderete",
+          "perderanno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "perda",
+          "perda",
+          "perda",
+          "perdiamo",
+          "perdiate",
+          "perdano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "perdessi",
+          "perdessi",
+          "perdesse",
+          "perdessimo",
+          "perdeste",
+          "perdessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "perderei",
+          "perderesti",
+          "perderebbe",
+          "perderemmo",
+          "perdereste",
+          "perderebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "perdi",
+          "perda",
+          "perdiamo",
+          "perdete",
+          "perdano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "perdente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "perso"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "perdendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo perso"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "credere",
+    "infinitive": "credere",
+    "chinese": "相信",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "credere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere creduto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "credo",
+          "credi",
+          "crede",
+          "crediamo",
+          "credete",
+          "credono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho creduto",
+          "hai creduto",
+          "ha creduto",
+          "abbiamo creduto",
+          "avete creduto",
+          "hanno creduto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "credevo",
+          "credevi",
+          "credeva",
+          "credevamo",
+          "credevate",
+          "credevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "crederò",
+          "crederai",
+          "crederà",
+          "crederemo",
+          "crederete",
+          "crederanno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "creda",
+          "creda",
+          "creda",
+          "crediamo",
+          "crediate",
+          "credano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "credessi",
+          "credessi",
+          "credesse",
+          "credessimo",
+          "credeste",
+          "credessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "crederei",
+          "crederesti",
+          "crederebbe",
+          "crederemmo",
+          "credereste",
+          "crederebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "credi",
+          "creda",
+          "crediamo",
+          "credete",
+          "credano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "credente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "creduto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "credendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo creduto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chiudere",
+    "infinitive": "chiudere",
+    "chinese": "关闭",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "chiudere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere chiuso"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "chiudo",
+          "chiudi",
+          "chiude",
+          "chiudiamo",
+          "chiudete",
+          "chiudono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho chiuso",
+          "hai chiuso",
+          "ha chiuso",
+          "abbiamo chiuso",
+          "avete chiuso",
+          "hanno chiuso"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "chiudevo",
+          "chiudevi",
+          "chiudeva",
+          "chiudevamo",
+          "chiudevate",
+          "chiudevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "chiuderò",
+          "chiuderai",
+          "chiuderà",
+          "chiuderemo",
+          "chiuderete",
+          "chiuderanno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "chiuda",
+          "chiuda",
+          "chiuda",
+          "chiudiamo",
+          "chiudiate",
+          "chiudano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "chiudessi",
+          "chiudessi",
+          "chiudesse",
+          "chiudessimo",
+          "chiudeste",
+          "chiudessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "chiuderei",
+          "chiuderesti",
+          "chiuderebbe",
+          "chiuderemmo",
+          "chiudereste",
+          "chiuderebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "chiudi",
+          "chiuda",
+          "chiudiamo",
+          "chiudete",
+          "chiudano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "chiudente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "chiuso"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "chiudendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo chiuso"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dormire",
+    "infinitive": "dormire",
+    "chinese": "睡觉",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "dormire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere dormito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "dormo",
+          "dormi",
+          "dorme",
+          "dormiamo",
+          "dormite",
+          "dormono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho dormito",
+          "hai dormito",
+          "ha dormito",
+          "abbiamo dormito",
+          "avete dormito",
+          "hanno dormito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "dormivo",
+          "dormivi",
+          "dormiva",
+          "dormivamo",
+          "dormivate",
+          "dormivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "dormirò",
+          "dormirai",
+          "dormirà",
+          "dormiremo",
+          "dormirete",
+          "dormiranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "dorma",
+          "dorma",
+          "dorma",
+          "dormiamo",
+          "dormiate",
+          "dormano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "dormessi",
+          "dormessi",
+          "dormesse",
+          "dormessimo",
+          "dormeste",
+          "dormessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "dormirei",
+          "dormiresti",
+          "dormirebbe",
+          "dormiremmo",
+          "dormireste",
+          "dormirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "dormi",
+          "dorma",
+          "dormiamo",
+          "dormite",
+          "dormano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "dormiente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "dormito"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "dormendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo dormito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aprire",
+    "infinitive": "aprire",
+    "chinese": "打开",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "aprire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere aperto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "apro",
+          "apri",
+          "apre",
+          "apriamo",
+          "aprite",
+          "aprono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho aperto",
+          "hai aperto",
+          "ha aperto",
+          "abbiamo aperto",
+          "avete aperto",
+          "hanno aperto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "aprivo",
+          "aprivi",
+          "apriva",
+          "aprivamo",
+          "aprivate",
+          "aprivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "aprirò",
+          "aprirai",
+          "aprirà",
+          "apriremo",
+          "aprirete",
+          "apriranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "apra",
+          "apra",
+          "apra",
+          "apriamo",
+          "apriate",
+          "aprano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "apressi",
+          "apressi",
+          "apresse",
+          "apressimo",
+          "apreste",
+          "apressero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "aprirei",
+          "apriresti",
+          "aprirebbe",
+          "apriremmo",
+          "aprireste",
+          "aprirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "apri",
+          "apra",
+          "apriamo",
+          "aprite",
+          "aprano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "aprente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "aperto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "aprendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo aperto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sentire",
+    "infinitive": "sentire",
+    "chinese": "感觉/听",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "sentire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere sentito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "sento",
+          "senti",
+          "sente",
+          "sentiamo",
+          "sentite",
+          "sentono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho sentito",
+          "hai sentito",
+          "ha sentito",
+          "abbiamo sentito",
+          "avete sentito",
+          "hanno sentito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "sentivo",
+          "sentivi",
+          "sentiva",
+          "sentivamo",
+          "sentivate",
+          "sentivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "sentirò",
+          "sentirai",
+          "sentirà",
+          "sentiremo",
+          "sentirete",
+          "sentiranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "senta",
+          "senta",
+          "senta",
+          "sentiamo",
+          "sentiate",
+          "sentano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "sentessi",
+          "sentessi",
+          "sentesse",
+          "sentessimo",
+          "senteste",
+          "sentessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "sentirei",
+          "sentiresti",
+          "sentirebbe",
+          "sentiremmo",
+          "sentireste",
+          "sentirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "senti",
+          "senta",
+          "sentiamo",
+          "sentite",
+          "sentano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "sentente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "sentito"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "sentendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo sentito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "partire",
+    "infinitive": "partire",
+    "chinese": "离开",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "partire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere partito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "parto",
+          "parti",
+          "parte",
+          "partiamo",
+          "partite",
+          "partono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho partito",
+          "hai partito",
+          "ha partito",
+          "abbiamo partito",
+          "avete partito",
+          "hanno partito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "partivo",
+          "partivi",
+          "partiva",
+          "partivamo",
+          "partivate",
+          "partivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "partirò",
+          "partirai",
+          "partirà",
+          "partiremo",
+          "partirete",
+          "partiranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "parta",
+          "parta",
+          "parta",
+          "partiamo",
+          "partiate",
+          "partano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "partessi",
+          "partessi",
+          "partesse",
+          "partessimo",
+          "parteste",
+          "partessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "partirei",
+          "partiresti",
+          "partirebbe",
+          "partiremmo",
+          "partireste",
+          "partirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "parti",
+          "parta",
+          "partiamo",
+          "partite",
+          "partano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "partente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "partito"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "partendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo partito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finire",
+    "infinitive": "finire",
+    "chinese": "完成",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "finire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere finito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "finisco",
+          "finisci",
+          "finisce",
+          "finiamo",
+          "finite",
+          "finiscono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho finito",
+          "hai finito",
+          "ha finito",
+          "abbiamo finito",
+          "avete finito",
+          "hanno finito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "finivo",
+          "finivi",
+          "finiva",
+          "finivamo",
+          "finivate",
+          "finivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "finirò",
+          "finirai",
+          "finirà",
+          "finiremo",
+          "finirete",
+          "finiranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "finisca",
+          "finisca",
+          "finisca",
+          "finiamo",
+          "finiate",
+          "finiscano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "finissi",
+          "finissi",
+          "finisse",
+          "finissimo",
+          "finiste",
+          "finissero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "finirei",
+          "finiresti",
+          "finirebbe",
+          "finiremmo",
+          "finireste",
+          "finirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "finisci",
+          "finisca",
+          "finiamo",
+          "finite",
+          "finiscano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "finiente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "finito"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "finendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo finito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capire",
+    "infinitive": "capire",
+    "chinese": "理解",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "capire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere capito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "capisco",
+          "capisci",
+          "capisce",
+          "capiamo",
+          "capite",
+          "capiscono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho capito",
+          "hai capito",
+          "ha capito",
+          "abbiamo capito",
+          "avete capito",
+          "hanno capito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "capivo",
+          "capivi",
+          "capiva",
+          "capivamo",
+          "capivate",
+          "capivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "capirò",
+          "capirai",
+          "capirà",
+          "capiremo",
+          "capirete",
+          "capiranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "capisca",
+          "capisca",
+          "capisca",
+          "capiamo",
+          "capiate",
+          "capiscano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "capissi",
+          "capissi",
+          "capisse",
+          "capissimo",
+          "capiste",
+          "capissero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "capirei",
+          "capiresti",
+          "capirebbe",
+          "capiremmo",
+          "capireste",
+          "capirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "capisci",
+          "capisca",
+          "capiamo",
+          "capite",
+          "capiscano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "capiente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "capito"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "capendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo capito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "essere",
+    "infinitive": "essere",
+    "chinese": "是/在",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "essere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "essere stato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "sono",
+          "sei",
+          "è",
+          "siamo",
+          "siete",
+          "sono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "sono stato",
+          "sei stato",
+          "è stato",
+          "siamo stato",
+          "siete stato",
+          "sono stato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "ero",
+          "eri",
+          "era",
+          "eravamo",
+          "eravate",
+          "erano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "sarò",
+          "sarai",
+          "sarà",
+          "saremo",
+          "sarete",
+          "saranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "sia",
+          "sia",
+          "sia",
+          "siamo",
+          "siate",
+          "siano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "fossi",
+          "fossi",
+          "fosse",
+          "fossimo",
+          "foste",
+          "fossero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "sarei",
+          "saresti",
+          "sarebbe",
+          "saremmo",
+          "sareste",
+          "sarebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "sii",
+          "sia",
+          "siamo",
+          "siete",
+          "siano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "essente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "stato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "essendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "essendo stato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "avere",
+    "infinitive": "avere",
+    "chinese": "有",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "avere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere avuto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "ho",
+          "hai",
+          "ha",
+          "abbiamo",
+          "avete",
+          "hanno"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho avuto",
+          "hai avuto",
+          "ha avuto",
+          "abbiamo avuto",
+          "avete avuto",
+          "hanno avuto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "avevo",
+          "avevi",
+          "aveva",
+          "avevamo",
+          "avevate",
+          "avevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "avrò",
+          "avrai",
+          "avrà",
+          "avremo",
+          "avrete",
+          "avranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "abbia",
+          "abbia",
+          "abbia",
+          "abbiamo",
+          "abbiate",
+          "abbiano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "avessi",
+          "avessi",
+          "avesse",
+          "avessimo",
+          "aveste",
+          "avessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "avrei",
+          "avresti",
+          "avrebbe",
+          "avremmo",
+          "avreste",
+          "avrebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "abbi",
+          "abbia",
+          "abbiamo",
+          "avete",
+          "abbiano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "avente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "avuto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "avendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo avuto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andare",
+    "infinitive": "andare",
+    "chinese": "去",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "andare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "essere andato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "vado",
+          "vai",
+          "va",
+          "andiamo",
+          "andate",
+          "vanno"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "sono andato",
+          "sei andato",
+          "è andato",
+          "siamo andato",
+          "siete andato",
+          "sono andato"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "andavo",
+          "andavi",
+          "andava",
+          "andavamo",
+          "andavate",
+          "andavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "andrò",
+          "andrai",
+          "andrà",
+          "andremo",
+          "andrete",
+          "andranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "vada",
+          "vada",
+          "vada",
+          "andiamo",
+          "andiate",
+          "vadano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "andassi",
+          "andassi",
+          "andasse",
+          "andassimo",
+          "andaste",
+          "andassero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "andrei",
+          "andresti",
+          "andrebbe",
+          "andremmo",
+          "andreste",
+          "andrebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "va'",
+          "vada",
+          "andiamo",
+          "andate",
+          "vadano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "andante"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "andato"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "andando"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "essendo andato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fare",
+    "infinitive": "fare",
+    "chinese": "做",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "fare"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere fatto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "faccio",
+          "fai",
+          "fa",
+          "facciamo",
+          "fate",
+          "fanno"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho fatto",
+          "hai fatto",
+          "ha fatto",
+          "abbiamo fatto",
+          "avete fatto",
+          "hanno fatto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "facevo",
+          "facevi",
+          "faceva",
+          "facevamo",
+          "facevate",
+          "facevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "farò",
+          "farai",
+          "farà",
+          "faremo",
+          "farete",
+          "faranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "faccia",
+          "faccia",
+          "faccia",
+          "facciamo",
+          "facciate",
+          "facciano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "facessi",
+          "facessi",
+          "facesse",
+          "facessimo",
+          "faceste",
+          "facessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "farei",
+          "faresti",
+          "farebbe",
+          "faremmo",
+          "fareste",
+          "farebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "fa'",
+          "faccia",
+          "facciamo",
+          "fate",
+          "facciano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "facente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "fatto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "facendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo fatto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dire",
+    "infinitive": "dire",
+    "chinese": "说",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "dire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere detto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "dico",
+          "dici",
+          "dice",
+          "diciamo",
+          "dite",
+          "dicono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho detto",
+          "hai detto",
+          "ha detto",
+          "abbiamo detto",
+          "avete detto",
+          "hanno detto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "dicevo",
+          "dicevi",
+          "diceva",
+          "dicevamo",
+          "dicevate",
+          "dicevano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "dirò",
+          "dirai",
+          "dirà",
+          "diremo",
+          "direte",
+          "diranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "dica",
+          "dica",
+          "dica",
+          "diciamo",
+          "diciate",
+          "dicano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "dicessi",
+          "dicessi",
+          "dicesse",
+          "dicessimo",
+          "diceste",
+          "dicessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "direi",
+          "diresti",
+          "direbbe",
+          "diremmo",
+          "direste",
+          "direbbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "di'",
+          "dica",
+          "diciamo",
+          "dite",
+          "dicano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "dicente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "detto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "dicendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo detto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "venire",
+    "infinitive": "venire",
+    "chinese": "来",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "venire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "essere venuto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "vengo",
+          "vieni",
+          "viene",
+          "veniamo",
+          "venite",
+          "vengono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "sono venuto",
+          "sei venuto",
+          "è venuto",
+          "siamo venuto",
+          "siete venuto",
+          "sono venuto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "venivo",
+          "venivi",
+          "veniva",
+          "venivamo",
+          "venivate",
+          "venivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "verrò",
+          "verrai",
+          "verrà",
+          "verremo",
+          "verrete",
+          "verranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "venga",
+          "venga",
+          "venga",
+          "veniamo",
+          "veniate",
+          "vengano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "venissi",
+          "venissi",
+          "venisse",
+          "venissimo",
+          "veniste",
+          "venissero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "verrei",
+          "verresti",
+          "verrebbe",
+          "verremmo",
+          "verreste",
+          "verrebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "vieni",
+          "venga",
+          "veniamo",
+          "venite",
+          "vengano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "veniente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "venuto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "venendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "essendo venuto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bere",
+    "infinitive": "bere",
+    "chinese": "喝",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "bere"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "avere bevuto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "bevo",
+          "bevi",
+          "beve",
+          "beviamo",
+          "bevete",
+          "bevono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "ho bevuto",
+          "hai bevuto",
+          "ha bevuto",
+          "abbiamo bevuto",
+          "avete bevuto",
+          "hanno bevuto"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "bevevo",
+          "bevevi",
+          "beveva",
+          "bevevamo",
+          "bevevate",
+          "bevavano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "berrò",
+          "berrai",
+          "berrà",
+          "berremo",
+          "berrete",
+          "berranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "beva",
+          "beva",
+          "beva",
+          "beviamo",
+          "beviate",
+          "bevano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "bevessi",
+          "bevessi",
+          "bevesse",
+          "bevessimo",
+          "beveste",
+          "bevessero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "berrei",
+          "berresti",
+          "berrebbe",
+          "berremmo",
+          "berreste",
+          "berrebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "bevi",
+          "beva",
+          "beviamo",
+          "bevete",
+          "bevano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "bevente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "bevuto"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "bendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "avendo bevuto"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uscire",
+    "infinitive": "uscire",
+    "chinese": "出去",
+    "conjugation": [
+      {
+        "mood": "infinito",
+        "tense": "presente",
+        "forms": [
+          "uscire"
+        ]
+      },
+      {
+        "mood": "infinito",
+        "tense": "passato",
+        "forms": [
+          "essere uscito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "presente",
+        "forms": [
+          "esco",
+          "esci",
+          "esce",
+          "usciamo",
+          "uscite",
+          "escono"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "passato prossimo",
+        "forms": [
+          "sono uscito",
+          "sei uscito",
+          "è uscito",
+          "siamo uscito",
+          "siete uscito",
+          "sono uscito"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "imperfetto",
+        "forms": [
+          "uscivo",
+          "uscivi",
+          "usciva",
+          "uscivamo",
+          "uscivate",
+          "uscivano"
+        ]
+      },
+      {
+        "mood": "indicativo",
+        "tense": "futuro semplice",
+        "forms": [
+          "uscirò",
+          "uscirai",
+          "uscirà",
+          "usciremo",
+          "uscirete",
+          "usciranno"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "presente",
+        "forms": [
+          "esca",
+          "esca",
+          "esca",
+          "usciamo",
+          "usciate",
+          "escano"
+        ]
+      },
+      {
+        "mood": "congiuntivo",
+        "tense": "imperfetto",
+        "forms": [
+          "uscissi",
+          "uscissi",
+          "uscisse",
+          "uscissimo",
+          "usciste",
+          "uscissero"
+        ]
+      },
+      {
+        "mood": "condizionale",
+        "tense": "presente",
+        "forms": [
+          "uscirei",
+          "usciresti",
+          "uscirebbe",
+          "usciremmo",
+          "uscireste",
+          "uscirebbero"
+        ]
+      },
+      {
+        "mood": "imperativo",
+        "tense": "presente",
+        "forms": [
+          "",
+          "esci",
+          "esca",
+          "usciamo",
+          "uscite",
+          "escano"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "presente",
+        "forms": [
+          "uscente"
+        ]
+      },
+      {
+        "mood": "participio",
+        "tense": "passato",
+        "forms": [
+          "uscito"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "presente",
+        "forms": [
+          "uscendo"
+        ]
+      },
+      {
+        "mood": "gerundio",
+        "tense": "passato",
+        "forms": [
+          "essendo uscito"
+        ]
+      }
+    ]
+  }
+]

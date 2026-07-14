@@ -1,0 +1,272 @@
+[
+  {
+    "id": "in-bocca-al-lupo",
+    "italian": "In bocca al lupo",
+    "chinese": "祝你好运（常用于演出、考试前）",
+    "literal": "进到狼的嘴里",
+    "culturalNote": "源自狩猎文化，狼象征危险。正确回答应是「Crepi!」（狼死掉）。直接说「Buona fortuna」反而不地道。",
+    "audioFile": "in-bocca-al-lupo",
+    "category": "augurio"
+  },
+  {
+    "id": "tutto-fa-brodo",
+    "italian": "Tutto fa brodo",
+    "chinese": "积少成多；凡事都有用",
+    "literal": "什么都拿去做汤",
+    "culturalNote": "意为哪怕很小的贡献也能汇聚成有用的东西，类似中文「聚沙成塔」。",
+    "audioFile": "tutto-fa-brodo",
+    "category": "saggezza"
+  },
+  {
+    "id": "essere-al-settimo-cielo",
+    "italian": "Essere al settimo cielo",
+    "chinese": "欣喜若狂；极其幸福",
+    "literal": "在第七层天上",
+    "culturalNote": "但丁《神曲》中天堂有九层，第七层已是极高之境，引申为极度快乐。",
+    "audioFile": "essere-al-settimo-cielo",
+    "category": "emotivo"
+  },
+  {
+    "id": "avere-le-mani-in-pasta",
+    "italian": "Avere le mani in pasta",
+    "chinese": "亲手参与；插手某事",
+    "literal": "手插在面团里",
+    "culturalNote": "指某人正直接参与并掌控某件事，常含「深陷其中」之意。",
+    "audioFile": "avere-le-mani-in-pasta",
+    "category": "azione"
+  },
+  {
+    "id": "costare-un-occhio-della-testa",
+    "italian": "Costare un occhio della testa",
+    "chinese": "昂贵得离谱",
+    "literal": "花费一只眼睛和脑袋",
+    "culturalNote": "夸张说法，表示价格高到要付出巨大代价，类似中文「贵得要命」。",
+    "audioFile": "costare-un-occhio-della-testa",
+    "category": "critica"
+  },
+  {
+    "id": "non-vedere-l-ora",
+    "italian": "Non vedere l'ora",
+    "chinese": "迫不及待；等不及",
+    "literal": "看不到那个时刻",
+    "culturalNote": "表达对某事强烈的期待，如「Non vedo l'ora di partire」（我迫不及待想出发）。",
+    "audioFile": "non-vedere-l-ora",
+    "category": "emotivo"
+  },
+  {
+    "id": "piovere-sul-bagnato",
+    "italian": "Piovere sul bagnato",
+    "chinese": "雪上加霜",
+    "literal": "雨落在已经湿的地方",
+    "culturalNote": "指不幸接连发生，与中文「雪上加霜」异曲同工。",
+    "audioFile": "piovere-sul-bagnato",
+    "category": "critica"
+  },
+  {
+    "id": "ridere-a-crepapelle",
+    "italian": "Ridere a crepapelle",
+    "chinese": "捧腹大笑",
+    "literal": "笑到肚皮裂开",
+    "culturalNote": "crepapelle 由 crepare（裂开）+ pelle（肚皮）构成，形容笑得前仰后合。",
+    "audioFile": "ridere-a-crepapelle",
+    "category": "emotivo"
+  },
+  {
+    "id": "essere-con-le-mani-legate",
+    "italian": "Essere con le mani legate",
+    "chinese": "束手无策；无能为力",
+    "literal": "双手被绑着",
+    "culturalNote": "形容因规则或环境限制而无法行动。",
+    "audioFile": "essere-con-le-mani-legate",
+    "category": "critica"
+  },
+  {
+    "id": "prendere-due-piccioni-con-una-fava",
+    "italian": "Prendere due piccioni con una fava",
+    "chinese": "一石二鸟；一举两得",
+    "literal": "用一颗豆子抓两只鸽子",
+    "culturalNote": "与英文 kill two birds with one stone 对应，是意大利最常用的「双赢」表达。",
+    "audioFile": "prendere-due-piccioni-con-una-fava",
+    "category": "saggezza"
+  },
+  {
+    "id": "mettere-i-bastoni-tra-le-ruote",
+    "italian": "Mettere i bastoni tra le ruote",
+    "chinese": "暗中使坏；阻挠别人",
+    "literal": "在轮子之间插棍子",
+    "culturalNote": "比喻故意制造障碍让别人寸步难行。",
+    "audioFile": "mettere-i-bastoni-tra-le-ruote",
+    "category": "critica"
+  },
+  {
+    "id": "avere-un-chiodo-fisso-in-testa",
+    "italian": "Avere un chiodo fisso in testa",
+    "chinese": "念念不忘；钻牛角尖",
+    "literal": "脑袋里钉着一颗钉子",
+    "culturalNote": "形容对某件事过度执着、无法释怀。",
+    "audioFile": "avere-un-chiodo-fisso-in-testa",
+    "category": "emotivo"
+  },
+  {
+    "id": "l-acqua-passata-non-macina-piu",
+    "italian": "L'acqua passata non macina più",
+    "chinese": "过去的事就让它过去",
+    "literal": "流过的水不再推动磨盘",
+    "culturalNote": "劝人放下往事，类似中文「既往不咎」。",
+    "audioFile": "l-acqua-passata-non-macina-piu",
+    "category": "saggezza"
+  },
+  {
+    "id": "ogni-morte-di-papa",
+    "italian": "Ogni morte di papa",
+    "chinese": "极少发生；千载难逢",
+    "literal": "每次教皇去世",
+    "culturalNote": "教皇更迭极为罕见，故用来形容某事难得一见。",
+    "audioFile": "ogni-morte-di-papa",
+    "category": "saggezza"
+  },
+  {
+    "id": "cavallo-di-troia",
+    "italian": "Cavallo di Troia",
+    "chinese": "特洛伊木马；隐藏的陷阱",
+    "literal": "特洛伊的木马",
+    "culturalNote": "源自荷马史诗，现多指看似无害实则暗藏危险的陷阱。",
+    "audioFile": "cavallo-di-troia",
+    "category": "storico"
+  },
+  {
+    "id": "tra-il-dire-e-il-fare-c-e-di-mezzo-il-mare",
+    "italian": "Tra il dire e il fare c'è di mezzo il mare",
+    "chinese": "说和做之间隔着大海；知易行难",
+    "literal": "在说与做之间隔着一片海",
+    "culturalNote": "强调行动远比空谈困难。",
+    "audioFile": "tra-il-dire-e-il-fare-c-e-di-mezzo-il-mare",
+    "category": "saggezza"
+  },
+  {
+    "id": "chi-dorme-non-piglia-pesci",
+    "italian": "Chi dorme non piglia pesci",
+    "chinese": "不劳无获；早起的鸟儿有虫吃",
+    "literal": "睡觉的人钓不到鱼",
+    "culturalNote": "鼓励人勤奋行动，莫要错失良机。",
+    "audioFile": "chi-dorme-non-piglia-pesci",
+    "category": "saggezza"
+  },
+  {
+    "id": "tutte-le-strade-portano-a-roma",
+    "italian": "Tutte le strade portano a Roma",
+    "chinese": "条条大路通罗马",
+    "literal": "所有道路都通向罗马",
+    "culturalNote": "罗马作为帝国中心，比喻达成目标的方法不止一种。",
+    "audioFile": "tutte-le-strade-portano-a-roma",
+    "category": "saggezza"
+  },
+  {
+    "id": "il-lupo-perde-il-pelo-ma-non-il-vizio",
+    "italian": "Il lupo perde il pelo ma non il vizio",
+    "chinese": "江山易改本性难移",
+    "literal": "狼会掉毛，但恶习难改",
+    "culturalNote": "提醒人本质难变，不要轻易相信坏人洗心革面。",
+    "audioFile": "il-lupo-perde-il-pelo-ma-non-il-vizio",
+    "category": "saggezza"
+  },
+  {
+    "id": "avere-il-pollice-verde",
+    "italian": "Avere il pollice verde",
+    "chinese": "擅长园艺；很有绿手指",
+    "literal": "有绿色的拇指",
+    "culturalNote": "与英文 green thumb 对应，形容植物养得好。",
+    "audioFile": "avere-il-pollice-verde",
+    "category": "elogio"
+  },
+  {
+    "id": "buono-come-il-pane",
+    "italian": "Buono come il pane",
+    "chinese": "心地善良；像面包一样好",
+    "literal": "像面包一样好",
+    "culturalNote": "面包是日常温饱之物，形容人朴实善良。",
+    "audioFile": "buono-come-il-pane",
+    "category": "elogio"
+  },
+  {
+    "id": "non-e-tutto-oro-quello-che-luccica",
+    "italian": "Non è tutto oro quello che luccica",
+    "chinese": "闪光的不都是金子",
+    "literal": "发光的未必都是金子",
+    "culturalNote": "与莎士比亚名句同源，提醒人勿被表象迷惑。",
+    "audioFile": "non-e-tutto-oro-quello-che-luccica",
+    "category": "saggezza"
+  },
+  {
+    "id": "roma-non-e-stata-costruita-in-un-giorno",
+    "italian": "Roma non è stata costruita in un giorno",
+    "chinese": "罗马不是一天建成的",
+    "literal": "罗马不是一天建成的",
+    "culturalNote": "劝诫耐心，伟大的事物需要时间。",
+    "audioFile": "roma-non-e-stata-costruita-in-un-giorno",
+    "category": "saggezza"
+  },
+  {
+    "id": "avere-la-luna-storta",
+    "italian": "Avere la luna storta",
+    "chinese": "心情不好；闹脾气",
+    "literal": "月亮歪了",
+    "culturalNote": "形容人一整天都闷闷不乐、看什么都不顺眼。",
+    "audioFile": "avere-la-luna-storta",
+    "category": "emotivo"
+  },
+  {
+    "id": "cadere-dalle-nuvole",
+    "italian": "Cadere dalle nuvole",
+    "chinese": "大吃一惊；茫然不知",
+    "literal": "从云上掉下来",
+    "culturalNote": "形容对某件事完全不知情、措手不及。",
+    "audioFile": "cadere-dalle-nuvole",
+    "category": "emotivo"
+  },
+  {
+    "id": "tagliare-la-testa-al-toro",
+    "italian": "Tagliare la testa al toro",
+    "chinese": "快刀斩乱麻",
+    "literal": "砍下牛的头",
+    "culturalNote": "源自罗马故事，比喻果断解决棘手问题。",
+    "audioFile": "tagliare-la-testa-al-toro",
+    "category": "saggezza"
+  },
+  {
+    "id": "fare-saltare-i-ponti",
+    "italian": "Far saltare i ponti",
+    "chinese": "断绝关系；破釜沉舟",
+    "literal": "炸掉桥梁",
+    "culturalNote": "比喻彻底切断与某人或某事的联系，没有退路。",
+    "audioFile": "fare-saltare-i-ponti",
+    "category": "azione"
+  },
+  {
+    "id": "avere-un-diavolo-per-capello",
+    "italian": "Avere un diavolo per capello",
+    "chinese": "怒不可遏；暴跳如雷",
+    "literal": "每根头发里都藏着一个魔鬼",
+    "culturalNote": "夸张形容人极度愤怒、烦躁不安。",
+    "audioFile": "avere-un-diavolo-per-capello",
+    "category": "emotivo"
+  },
+  {
+    "id": "volere-la-botte-piena-e-la-moglie-ubriaca",
+    "italian": "Volere la botte piena e la moglie ubriaca",
+    "chinese": "贪心不足；既要又要",
+    "literal": "既要酒桶装满，又要妻子喝醉",
+    "culturalNote": "讽刺人贪心、想同时占尽两边好处。",
+    "audioFile": "volere-la-botte-piena-e-la-moglie-ubriaca",
+    "category": "critica"
+  },
+  {
+    "id": "mangiare-la-foglia",
+    "italian": "Mangiare la foglia",
+    "chinese": "识破；看穿（别人的把戏）",
+    "literal": "吃下那片叶子",
+    "culturalNote": "源自斗兽场中用涂毒叶子诱兽的典故，现指察觉真相。",
+    "audioFile": "mangiare-la-foglia",
+    "category": "azione"
+  }
+]
